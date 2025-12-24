@@ -2,7 +2,7 @@
 
 This repository contains the code developed during a summer school (Petnica Summer Institute) project focused on the **time-domain evolution of a scalar field propagating on a Schwarzschild black hole background.**
 
-The project studies quasi-normal modes (QNMs), which describe the characteristic damped oscillations arising from perturbations of black holes. These modes sre important in black hole perturbation theory and gravitational-wave physics.
+The project studies quasi-normal modes (QNMs), which describe the characteristic damped oscillations arising from perturbations of black holes. These modes are important in black hole perturbation theory and gravitational-wave physics.
 
 ## Background
 
